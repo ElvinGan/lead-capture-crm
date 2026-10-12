@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+httpx
+phonenumbers
+email-validator
+pytest
